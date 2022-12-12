@@ -41,7 +41,7 @@ password = WebDriverWait(driver, 10).until(
 
 #enter username and password
 username.clear()
-username.send_keys("presidency_blr_confessions")
+username.send_keys("stgermain_confession")
 password.clear()
 password.send_keys("qwerty.1234")
 
